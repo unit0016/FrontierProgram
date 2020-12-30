@@ -8619,7 +8619,7 @@
 /obj/effect/turf_decal/tile/neutral{
 	dir = 8
 	},
-/obj/machinery/nuclearbomb,
+/obj/machinery/nuclearbomb/beer,
 /turf/open/floor/plasteel/dark,
 /area/ai_monitored/nuke_storage)
 "avV" = (
@@ -32196,6 +32196,13 @@
 /obj/item/bedsheet/cmo,
 /turf/open/floor/plasteel/dark,
 /area/crew_quarters/heads/cmo)
+"nLM" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/structure/closet/secure_closet/blueshield,
+/turf/open/floor/wood,
+/area/blueshieldoffice)
 "nQs" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden{
 	dir = 4
@@ -82468,7 +82475,7 @@ aVn
 aUw
 eUz
 qva
-gDe
+nLM
 gDe
 gDe
 aWR
