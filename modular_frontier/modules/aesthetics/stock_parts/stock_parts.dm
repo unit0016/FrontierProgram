@@ -2,9 +2,6 @@
 /obj/item/stock_parts/capacitor
 	icon = 'modular_frontier/modules/aesthetics/stock_parts/stock_parts.dmi'
 
-/obj/item/stock_parts/capacitor
-	icon = 'modular_frontier/modules/aesthetics/stock_parts/stock_parts.dmi'
-
 /obj/item/stock_parts/manipulator
 	icon = 'modular_frontier/modules/aesthetics/stock_parts/stock_parts.dmi'
 
@@ -15,6 +12,9 @@
 	icon = 'modular_frontier/modules/aesthetics/stock_parts/stock_parts.dmi'
 
 /obj/item/stock_parts/electrolite
+	icon = 'modular_frontier/modules/aesthetics/stock_parts/stock_parts.dmi'
+
+/obj/item/stock_parts/scanning_module
 	icon = 'modular_frontier/modules/aesthetics/stock_parts/stock_parts.dmi'
 
 //TIER 2
