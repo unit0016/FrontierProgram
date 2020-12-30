@@ -31,6 +31,7 @@ endmap
 map minstation
 	minplayers 0
 	maxplayers 19
+	votable
 endmap
 
 map outpoststation
