@@ -49,7 +49,7 @@
 	UnregisterSignal(reagents, list(COMSIG_REAGENTS_NEW_REAGENT, COMSIG_REAGENTS_ADD_REAGENT, COMSIG_REAGENTS_DEL_REAGENT, COMSIG_REAGENTS_REM_REAGENT, COMSIG_PARENT_QDELETING))
 	return NONE
 
-/obj/item/stock_parts/cell/update_overlays()
+/*/obj/item/stock_parts/cell/update_overlays()
 	. = ..()
 	if(grown_battery)
 		. += mutable_appearance('icons/obj/power.dmi', "grown_wires")
@@ -58,7 +58,7 @@
 	else if(charge/maxcharge >=0.995)
 		. += mutable_appearance('icons/obj/power.dmi', "cell-o2")
 	else
-		. += mutable_appearance('icons/obj/power.dmi', "cell-o1")
+		. += mutable_appearance('icons/obj/power.dmi', "cell-o1")*/ //Moved To Modular, Aesthetics, Frontier Program
 
 /obj/item/stock_parts/cell/proc/percent()		// return % charge of cell
 	return 100*charge/maxcharge
