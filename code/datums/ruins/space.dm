@@ -322,3 +322,15 @@
 	suffix = "prisonsat.dmm"
 	name = "Prison Station"
 	description = "An abandoned permanent prison. Nanotrasen officials claim the design was 'absolutely flawed' and 'doomed to fail', but they're probably exaggerating."
+
+/datum/map_template/ruin/space/wreckedfriendship
+	id = "wreckedfriendship"
+	suffix = "wreckedfriendship.dmm"
+	name = "NTSS 'Friendship'"
+	description = "What happens when you cram 40 people onto a shuttle meant for 19?"
+
+/datum/map_template/ruin/space/wreckedhomestead
+	id = "wreckedhomestead"
+	suffix = "wreckedhomestead.dmm"
+	name = "NTSS 'Homestead'"
+	description = "Frankly, it's a miracle it could fly to begin with."
