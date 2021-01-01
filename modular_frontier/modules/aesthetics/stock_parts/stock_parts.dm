@@ -11,9 +11,6 @@
 /obj/item/stock_parts/matter_bin
 	icon = 'modular_frontier/modules/aesthetics/stock_parts/stock_parts.dmi'
 
-/obj/item/stock_parts/electrolite
-	icon = 'modular_frontier/modules/aesthetics/stock_parts/stock_parts.dmi'
-
 /obj/item/stock_parts/scanning_module
 	icon = 'modular_frontier/modules/aesthetics/stock_parts/stock_parts.dmi'
 
@@ -34,9 +31,6 @@
 /obj/item/stock_parts/matter_bin/adv
 	icon = 'modular_frontier/modules/aesthetics/stock_parts/stock_parts.dmi'
 
-/obj/item/stock_parts/electrolite/adv
-	icon = 'modular_frontier/modules/aesthetics/stock_parts/stock_parts.dmi'
-
 //TIER 3
 
 /obj/item/stock_parts/capacitor/super
@@ -54,9 +48,6 @@
 /obj/item/stock_parts/matter_bin/super
 	icon = 'modular_frontier/modules/aesthetics/stock_parts/stock_parts.dmi'
 
-/obj/item/stock_parts/electrolite/super
-	icon = 'modular_frontier/modules/aesthetics/stock_parts/stock_parts.dmi'
-
 //TIER 4
 
 /obj/item/stock_parts/capacitor/quadratic
@@ -72,7 +63,4 @@
 	icon = 'modular_frontier/modules/aesthetics/stock_parts/stock_parts.dmi'
 
 /obj/item/stock_parts/matter_bin/bluespace
-	icon = 'modular_frontier/modules/aesthetics/stock_parts/stock_parts.dmi'
-
-/obj/item/stock_parts/electrolite/bluespace
 	icon = 'modular_frontier/modules/aesthetics/stock_parts/stock_parts.dmi'
