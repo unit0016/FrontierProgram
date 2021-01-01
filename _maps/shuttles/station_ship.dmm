@@ -511,9 +511,6 @@
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "cB" = (
-/obj/structure/table,
-/obj/effect/spawner/lootdrop/donkpockets,
-/obj/machinery/microwave,
 /obj/effect/turf_decal/trimline/green/filled/line{
 	dir = 6
 	},
@@ -523,6 +520,10 @@
 /obj/structure/extinguisher_cabinet{
 	pixel_x = 27
 	},
+/obj/structure/disposalpipe/trunk{
+	dir = 1
+	},
+/obj/machinery/disposal/bin,
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "cG" = (
@@ -1060,6 +1061,15 @@
 /obj/machinery/atmospherics/pipe/manifold/scrubbers/visible/layer2,
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
+"fM" = (
+/obj/effect/turf_decal/trimline/green/filled/line{
+	dir = 8
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 5
+	},
+/turf/open/floor/plasteel/dark,
+/area/shuttle/shipstation)
 "fN" = (
 /obj/effect/turf_decal/trimline/brown/filled/line{
 	dir = 4
@@ -1167,7 +1177,6 @@
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "hh" = (
-/obj/machinery/seed_extractor,
 /obj/effect/turf_decal/trimline/green/filled/line{
 	dir = 5
 	},
@@ -1223,13 +1232,14 @@
 /turf/open/floor/carpet/black,
 /area/shuttle/shipstation)
 "hE" = (
-/obj/machinery/vending/hydroseeds{
-	slogan_delay = 700
-	},
 /obj/effect/turf_decal/trimline/green/filled/line{
 	dir = 6
 	},
-/obj/machinery/biogenerator,
+/obj/structure/table,
+/obj/machinery/reagentgrinder{
+	pixel_y = 8
+	},
+/obj/item/wrench,
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "hI" = (
@@ -1330,10 +1340,13 @@
 /obj/effect/turf_decal/trimline/green/filled/line{
 	dir = 10
 	},
-/obj/machinery/disposal/bin,
-/obj/structure/disposalpipe/trunk{
-	dir = 1
+/obj/structure/table,
+/obj/machinery/reagentgrinder{
+	pixel_x = -6;
+	pixel_y = 8
 	},
+/obj/item/reagent_containers/food/condiment/enzyme,
+/obj/item/kitchen/rollingpin,
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "io" = (
@@ -1469,6 +1482,23 @@
 	id = "garbage"
 	},
 /obj/structure/disposalpipe/segment,
+/turf/open/floor/plasteel/dark,
+/area/shuttle/shipstation)
+"kt" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/green,
+/obj/machinery/biogenerator,
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "kH" = (
@@ -1676,13 +1706,10 @@
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "nx" = (
-/obj/structure/table,
-/obj/item/kitchen/rollingpin,
-/obj/machinery/reagentgrinder{
-	pixel_x = -6
-	},
-/obj/item/reagent_containers/food/condiment/enzyme,
 /obj/effect/turf_decal/trimline/green/filled/line,
+/obj/structure/table,
+/obj/effect/spawner/lootdrop/donkpockets,
+/obj/machinery/microwave,
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "nz" = (
@@ -1943,12 +1970,20 @@
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "pT" = (
-/obj/structure/table,
-/obj/machinery/reagentgrinder,
-/obj/item/wrench,
-/obj/effect/turf_decal/trimline/green/filled/line{
+/obj/structure/window/reinforced{
 	dir = 4
 	},
+/obj/effect/turf_decal/tile/green{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/green,
+/obj/machinery/seed_extractor,
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "qj" = (
@@ -4842,6 +4877,9 @@
 /obj/machinery/processor{
 	dir = 8
 	},
+/obj/structure/disposalpipe/segment{
+	dir = 10
+	},
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "XW" = (
@@ -5546,7 +5584,7 @@ Jj
 Mf
 ef
 dT
-dT
+fM
 ig
 ed
 "}
@@ -5569,7 +5607,7 @@ Dn
 dS
 QQ
 WX
-CV
+sR
 nx
 ed
 "}
@@ -5706,7 +5744,7 @@ fP
 AK
 yG
 hh
-pT
+yA
 hE
 ZH
 wd
@@ -5728,8 +5766,8 @@ LF
 fP
 wd
 ZH
-ZH
-ZH
+pT
+kt
 ZH
 wd
 ei
