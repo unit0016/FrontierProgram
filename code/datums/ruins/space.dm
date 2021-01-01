@@ -334,3 +334,9 @@
 	suffix = "wreckedhomestead.dmm"
 	name = "NTSS 'Homestead'"
 	description = "Frankly, it's a miracle it could fly to begin with."
+
+/datum/map_template/ruin/space/ruinedpubbymonastery
+	id = "ruinedpubbymonastery"
+	suffix = "ruinedpubbymonastery.dmm"
+	name = "Ruined Monastery"
+	description = "Once a home for the religious, now a home for the occasional exile or space explorer."

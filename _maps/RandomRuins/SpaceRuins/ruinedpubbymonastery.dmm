@@ -1,0 +1,5211 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"ai" = (
+/obj/structure/flora/ausbushes,
+/obj/effect/turf_decal/sand,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"am" = (
+/obj/structure/sign/plaques/kiddie{
+	desc = "It reads: PRIVATE EXHIBIT -  Please inquire with library staff for guided tours.";
+	name = "\improper Private Section Notice";
+	pixel_y = 32
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"bm" = (
+/obj/machinery/door/airlock/grunge{
+	name = "Art Gallery"
+	},
+/obj/machinery/door/firedoor,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"bD" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/lattice,
+/turf/template_noop,
+/area/ruin/powered)
+"bJ" = (
+/obj/structure/table,
+/obj/machinery/light/small,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"bT" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/light/dim{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"ck" = (
+/obj/machinery/chem_master/condimaster,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"cJ" = (
+/obj/effect/turf_decal/tile/red{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/red,
+/obj/effect/turf_decal/tile/red{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/red{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"dC" = (
+/obj/machinery/door/airlock{
+	name = "Garden"
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"dD" = (
+/obj/machinery/bookbinder,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"dH" = (
+/obj/machinery/door/airlock/grunge{
+	name = "Library"
+	},
+/obj/effect/mapping_helpers/airlock/cyclelink_helper,
+/obj/machinery/door/firedoor,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"dT" = (
+/obj/structure/flora/ausbushes/leafybush,
+/obj/structure/flora/ausbushes/reedbush,
+/turf/open/floor/plating/asteroid,
+/area/ruin/powered)
+"dU" = (
+/obj/structure/closet,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"eH" = (
+/obj/structure/bookcase/random/adult,
+/obj/machinery/light/small,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"eL" = (
+/obj/structure/reagent_dispensers/watertank/high,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"eP" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/window/reinforced,
+/turf/template_noop,
+/area/ruin/powered)
+"eU" = (
+/turf/closed/wall,
+/area/ruin/powered)
+"fa" = (
+/obj/structure/chair/wood{
+	dir = 8
+	},
+/turf/open/floor/carpet/black,
+/area/ruin/powered)
+"fj" = (
+/obj/structure/grille/broken,
+/turf/template_noop,
+/area/ruin/powered)
+"fn" = (
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"fr" = (
+/obj/structure/table,
+/obj/machinery/microwave,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/cobweb,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"fQ" = (
+/obj/structure/table/wood,
+/obj/machinery/computer/bookmanagement,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"fY" = (
+/obj/machinery/door/airlock/grunge{
+	name = "Crematorium";
+	req_access_txt = "27"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"ge" = (
+/obj/structure/transit_tube/horizontal,
+/obj/structure/lattice/catwalk,
+/turf/template_noop,
+/area/ruin/powered)
+"gg" = (
+/obj/machinery/door/window/eastleft{
+	base_state = "right";
+	dir = 1;
+	icon_state = "right";
+	name = "Coffin Storage";
+	req_one_access_txt = "22"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"gr" = (
+/obj/structure/lattice,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/template_noop,
+/area/ruin/powered)
+"gY" = (
+/obj/structure/chair/wood{
+	dir = 4
+	},
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"he" = (
+/obj/structure/table/wood/fancy,
+/obj/machinery/light/dim,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"hn" = (
+/obj/structure/dresser,
+/obj/structure/sign/plaques/deempisi{
+	pixel_y = 28
+	},
+/turf/open/floor/plasteel/grimy,
+/area/ruin/powered)
+"hu" = (
+/obj/structure/bed,
+/turf/open/floor/plasteel/grimy,
+/area/ruin/powered)
+"hS" = (
+/obj/structure/sink{
+	dir = 8;
+	pixel_x = 11
+	},
+/turf/open/floor/plasteel/showroomfloor,
+/area/ruin/powered)
+"ii" = (
+/obj/structure/bookcase/random/religion,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"ij" = (
+/obj/structure/transit_tube/horizontal,
+/obj/structure/window/reinforced/fulltile,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"ir" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"iQ" = (
+/obj/machinery/door/window/eastleft{
+	dir = 1;
+	name = "Coffin Storage";
+	req_one_access_txt = "22"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"iR" = (
+/obj/structure/chair,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"je" = (
+/obj/structure/closet/crate/bin,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"ji" = (
+/obj/structure/chair/wood{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"jm" = (
+/obj/structure/lattice,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/template_noop,
+/area/ruin/powered)
+"jQ" = (
+/obj/effect/turf_decal/stripes/corner,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"jZ" = (
+/obj/structure/closet/emcloset,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"ks" = (
+/obj/structure/filingcabinet,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"kv" = (
+/obj/machinery/light/small,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"kD" = (
+/obj/machinery/vending/hydronutrients,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"lg" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"lh" = (
+/turf/closed/wall/r_wall,
+/area/ruin/powered)
+"lm" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/machinery/light/dim{
+	dir = 1
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"lv" = (
+/obj/structure/chair/wood,
+/turf/open/floor/plasteel/chapel,
+/area/ruin/powered)
+"lI" = (
+/obj/structure/altar_of_gods,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"ma" = (
+/obj/structure/closet/crate/bin,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"md" = (
+/obj/machinery/light/small,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"mq" = (
+/obj/structure/transit_tube/station/reverse{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/ruin/powered)
+"mv" = (
+/obj/effect/spawner/lootdrop/gross_decal_spawner,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"mw" = (
+/obj/structure/closet{
+	name = "beekeeping wardrobe"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"mx" = (
+/obj/machinery/door/airlock/external{
+	name = "Pod Docking Bay"
+	},
+/obj/effect/mapping_helpers/airlock/cyclelink_helper,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"mK" = (
+/obj/structure/extinguisher_cabinet{
+	pixel_x = 24
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"mW" = (
+/obj/machinery/light/small,
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"ne" = (
+/obj/effect/spawner/structure/window/reinforced,
+/turf/closed/wall,
+/area/ruin/powered)
+"ng" = (
+/obj/structure/extinguisher_cabinet{
+	pixel_x = -24
+	},
+/obj/machinery/light/small,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"nv" = (
+/obj/machinery/door/airlock{
+	name = "Bathroom"
+	},
+/turf/open/floor/plasteel/grimy,
+/area/ruin/powered)
+"nB" = (
+/obj/structure/window/reinforced{
+	dir = 1;
+	pixel_y = 1
+	},
+/obj/structure/window/reinforced{
+	dir = 8;
+	layer = 2.9
+	},
+/turf/template_noop,
+/area/ruin/powered)
+"nF" = (
+/obj/machinery/door/airlock/grunge{
+	name = "Chapel Office";
+	req_access_txt = "22"
+	},
+/obj/effect/mapping_helpers/airlock/cyclelink_helper{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"nJ" = (
+/obj/structure/toilet{
+	pixel_y = 8
+	},
+/obj/machinery/light/small{
+	brightness = 3;
+	dir = 8
+	},
+/turf/open/floor/plasteel/showroomfloor,
+/area/ruin/powered)
+"nL" = (
+/turf/open/floor/plating/asteroid,
+/area/ruin/powered)
+"nM" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"nO" = (
+/obj/structure/transit_tube/horizontal,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"od" = (
+/obj/structure/flora/ausbushes/fernybush,
+/turf/open/floor/plating/asteroid,
+/area/ruin/powered)
+"oA" = (
+/obj/effect/turf_decal/tile/yellow,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"oM" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/chair/wood,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"oO" = (
+/obj/structure/chair/wood,
+/obj/machinery/firealarm{
+	dir = 4;
+	pixel_x = -28
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"oU" = (
+/obj/structure/bookcase/random/religion,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"oY" = (
+/obj/structure/rack{
+	icon = 'icons/obj/stationobjs.dmi';
+	icon_state = "minibar";
+	name = "skeletal minibar"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"pb" = (
+/obj/structure/chair/wood{
+	dir = 4
+	},
+/turf/open/floor/carpet/black,
+/area/ruin/powered)
+"pf" = (
+/obj/structure/sign/warning/vacuum/external{
+	pixel_y = 32
+	},
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/ruin/powered)
+"ph" = (
+/obj/machinery/door/airlock/external{
+	name = "Pod Docking Bay"
+	},
+/obj/effect/mapping_helpers/airlock/cyclelink_helper{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/ruin/powered)
+"pm" = (
+/obj/structure/table/wood,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"py" = (
+/obj/structure/lattice,
+/obj/structure/grille/broken,
+/turf/template_noop,
+/area/ruin/powered)
+"pF" = (
+/obj/structure/window/reinforced,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/template_noop,
+/area/ruin/powered)
+"pJ" = (
+/obj/machinery/door/airlock/grunge{
+	name = "Chapel"
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"pS" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/template_noop,
+/area/ruin/powered)
+"pW" = (
+/obj/machinery/skill_station,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"qu" = (
+/obj/structure/window/reinforced{
+	dir = 1;
+	pixel_y = 1
+	},
+/turf/template_noop,
+/area/ruin/powered)
+"qw" = (
+/obj/machinery/door/airlock{
+	name = "Dining Room"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"qD" = (
+/obj/structure/window/reinforced{
+	dir = 4;
+	layer = 2.9
+	},
+/obj/structure/lattice,
+/turf/template_noop,
+/area/ruin/powered)
+"qE" = (
+/obj/machinery/door/airlock/grunge{
+	name = "Chapel"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"qN" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"rt" = (
+/obj/structure/window/reinforced,
+/obj/structure/window/reinforced{
+	dir = 8;
+	layer = 2.9
+	},
+/turf/template_noop,
+/area/ruin/powered)
+"rv" = (
+/obj/structure/transit_tube/horizontal,
+/obj/structure/window/reinforced{
+	dir = 8;
+	layer = 2.9
+	},
+/obj/structure/lattice/catwalk,
+/turf/template_noop,
+/area/ruin/powered)
+"rx" = (
+/obj/structure/grille,
+/obj/structure/window/reinforced/tinted/fulltile,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"rT" = (
+/turf/open/floor/plasteel/chapel{
+	dir = 4
+	},
+/area/ruin/powered)
+"sa" = (
+/obj/structure/window/reinforced{
+	dir = 4;
+	layer = 2.9
+	},
+/turf/template_noop,
+/area/ruin/powered)
+"sg" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/table/wood,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"sm" = (
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/floor/plating/airless,
+/area/ruin/powered)
+"sn" = (
+/obj/effect/turf_decal/stripes/line,
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"sy" = (
+/obj/structure/extinguisher_cabinet{
+	pixel_x = 24
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"sA" = (
+/obj/structure/closet/emcloset,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/ruin/powered)
+"tk" = (
+/obj/structure/chair/wood,
+/turf/open/floor/plasteel/chapel{
+	dir = 1
+	},
+/area/ruin/powered)
+"tF" = (
+/obj/machinery/vending/dinnerware,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"tL" = (
+/obj/structure/foamedmetal/resin,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"ub" = (
+/obj/structure/foamedmetal/resin,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"ud" = (
+/obj/effect/turf_decal/tile/red{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/red{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/red{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"uk" = (
+/obj/structure/window/reinforced,
+/obj/structure/window/reinforced{
+	dir = 4;
+	layer = 2.9
+	},
+/turf/template_noop,
+/area/ruin/powered)
+"uy" = (
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"uJ" = (
+/obj/structure/flora/ausbushes/leafybush,
+/turf/open/floor/plating/asteroid,
+/area/ruin/powered)
+"uS" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/window/reinforced,
+/obj/structure/lattice,
+/turf/template_noop,
+/area/ruin/powered)
+"uV" = (
+/turf/open/floor/plating,
+/area/ruin/powered)
+"uZ" = (
+/obj/structure/bookcase/random/religion,
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"vw" = (
+/obj/structure/chair/wood{
+	dir = 1
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"vM" = (
+/obj/structure/frame/machine,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"vO" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/template_noop,
+/area/ruin/powered)
+"wB" = (
+/obj/structure/table/wood,
+/obj/machinery/computer/libraryconsole,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"wS" = (
+/obj/structure/window/reinforced/fulltile,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"wT" = (
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"wV" = (
+/obj/machinery/door/window/northright{
+	base_state = "left";
+	icon_state = "left";
+	name = "Secure Art Exhibit";
+	req_access_txt = "37"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"wX" = (
+/obj/machinery/biogenerator,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"wY" = (
+/obj/machinery/light/small,
+/turf/open/floor/carpet/black,
+/area/ruin/powered)
+"xj" = (
+/obj/structure/table/wood,
+/obj/structure/sign/poster/official/fruit_bowl{
+	pixel_y = 32
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"xu" = (
+/obj/structure/lattice,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/template_noop,
+/area/template_noop)
+"xU" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"xZ" = (
+/obj/effect/turf_decal/stripes/line,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"yd" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/yellow,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"yk" = (
+/obj/structure/extinguisher_cabinet{
+	pixel_x = 24
+	},
+/turf/open/floor/plating,
+/area/ruin/powered)
+"yG" = (
+/obj/structure/closet/emcloset,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"zi" = (
+/obj/structure/chair/wood{
+	dir = 8
+	},
+/turf/open/floor/plasteel/grimy,
+/area/ruin/powered)
+"zq" = (
+/obj/machinery/firealarm{
+	dir = 1;
+	pixel_y = 29
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"zr" = (
+/obj/structure/table/wood/fancy,
+/obj/machinery/light/small,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"zB" = (
+/obj/structure/table/wood,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"zM" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"zO" = (
+/obj/structure/closet/cabinet,
+/turf/open/floor/plasteel/grimy,
+/area/ruin/powered)
+"Af" = (
+/obj/machinery/suit_storage_unit/standard_unit,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Aj" = (
+/obj/machinery/door/airlock,
+/turf/open/floor/plasteel/grimy,
+/area/ruin/powered)
+"Ax" = (
+/obj/structure/bookcase/random/nonfiction,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"AO" = (
+/obj/structure/closet{
+	name = "beekeeping supplies"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"AY" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/effect/turf_decal/sand,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"Bc" = (
+/obj/structure/chair/wood,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Bs" = (
+/obj/machinery/door/morgue{
+	name = "Confession Booth"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Bw" = (
+/obj/structure/table/wood,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/cobweb,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"BM" = (
+/obj/machinery/door/airlock/grunge{
+	name = "Monastery Transit"
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"BX" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/obj/structure/chair/wood{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Ca" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/lattice,
+/turf/template_noop,
+/area/ruin/powered)
+"CL" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/obj/machinery/light/small{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Dw" = (
+/obj/machinery/door/airlock/grunge{
+	name = "Art Storage"
+	},
+/obj/machinery/door/firedoor,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Dx" = (
+/obj/machinery/door/airlock/grunge{
+	name = "Monastery Cemetary"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"DF" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"DL" = (
+/obj/structure/transit_tube/crossing/horizontal,
+/obj/structure/lattice/catwalk,
+/turf/template_noop,
+/area/ruin/powered)
+"DN" = (
+/turf/template_noop,
+/area/template_noop)
+"DZ" = (
+/obj/structure/destructible/cult/tome,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Ef" = (
+/obj/structure/table/wood,
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plasteel/grimy,
+/area/ruin/powered)
+"Eo" = (
+/obj/machinery/door/airlock/grunge{
+	name = "Library"
+	},
+/obj/effect/mapping_helpers/airlock/cyclelink_helper{
+	dir = 1
+	},
+/obj/machinery/door/firedoor,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Ep" = (
+/obj/structure/bookcase/random/adult,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Ew" = (
+/obj/structure/chair/wood,
+/turf/open/floor/plasteel/chapel{
+	dir = 4
+	},
+/area/ruin/powered)
+"Ez" = (
+/obj/structure/table/wood,
+/turf/open/floor/carpet/black,
+/area/ruin/powered)
+"EA" = (
+/obj/machinery/firealarm{
+	dir = 4;
+	pixel_x = -28
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"EE" = (
+/obj/machinery/light/dim{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"ER" = (
+/turf/open/floor/plasteel/chapel,
+/area/ruin/powered)
+"Fc" = (
+/obj/machinery/door/airlock/maintenance{
+	name = "Monastery Maintenance";
+	req_one_access_txt = "22;24;10;11;37"
+	},
+/turf/open/floor/plating,
+/area/ruin/powered)
+"Fg" = (
+/obj/structure/bookcase/random/reference,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Fh" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/obj/machinery/door/window/northright{
+	dir = 2;
+	name = "Curator Desk Door";
+	req_access_txt = "37"
+	},
+/obj/effect/turf_decal/tile/red,
+/obj/effect/turf_decal/tile/red{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Fq" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/obj/machinery/libraryscanner,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"FF" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/obj/machinery/photocopier,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"FN" = (
+/obj/structure/table/wood,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Ge" = (
+/obj/structure/sign/warning/vacuum/external,
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"Gn" = (
+/obj/structure/table,
+/obj/machinery/reagentgrinder,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"Gy" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/ruin/powered)
+"GN" = (
+/obj/structure/chair/wood,
+/turf/open/floor/plasteel/chapel{
+	dir = 8
+	},
+/area/ruin/powered)
+"GZ" = (
+/obj/structure/frame/machine,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Hb" = (
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/obj/structure/table/wood,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"He" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/obj/structure/easel,
+/turf/open/floor/plasteel/grimy,
+/area/ruin/powered)
+"Hj" = (
+/obj/machinery/door/airlock/grunge{
+	name = "Library"
+	},
+/obj/machinery/door/firedoor,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"HC" = (
+/obj/structure/extinguisher_cabinet{
+	pixel_x = -24
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"HD" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"HE" = (
+/obj/structure/flora/ausbushes/fernybush,
+/obj/effect/turf_decal/sand,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"HW" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"If" = (
+/obj/structure/table/wood,
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/plasteel/grimy,
+/area/ruin/powered)
+"Ih" = (
+/obj/machinery/vending/games,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Io" = (
+/obj/machinery/light/dim{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"IQ" = (
+/obj/structure/window/reinforced{
+	dir = 8;
+	layer = 2.9
+	},
+/obj/structure/lattice,
+/turf/template_noop,
+/area/ruin/powered)
+"IU" = (
+/turf/template_noop,
+/area/ruin/powered)
+"Jc" = (
+/obj/machinery/portable_atmospherics/canister/oxygen,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"Jl" = (
+/obj/structure/chair/wood/wings{
+	dir = 1
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Jz" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/obj/machinery/door/window/northright{
+	base_state = "left";
+	dir = 2;
+	icon_state = "left";
+	name = "Curator Desk Door";
+	req_access_txt = "37"
+	},
+/obj/effect/turf_decal/tile/red,
+/obj/effect/turf_decal/tile/red{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"JC" = (
+/obj/structure/lattice,
+/obj/structure/window/reinforced{
+	dir = 8;
+	layer = 2.9
+	},
+/turf/template_noop,
+/area/ruin/powered)
+"JY" = (
+/obj/machinery/shower{
+	dir = 8;
+	pixel_y = -4
+	},
+/obj/machinery/light/small{
+	brightness = 3;
+	dir = 8
+	},
+/turf/open/floor/plasteel/showroomfloor,
+/area/ruin/powered)
+"Kn" = (
+/obj/machinery/door/airlock/external{
+	req_access_txt = "22"
+	},
+/turf/open/floor/plating,
+/area/ruin/powered)
+"Ku" = (
+/obj/machinery/door/airlock/grunge{
+	name = "Chapel Access"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"KF" = (
+/obj/effect/turf_decal/tile/purple{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/purple{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"LR" = (
+/obj/machinery/door/airlock/grunge{
+	name = "Chapel Garden"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"LS" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"LY" = (
+/turf/open/floor/carpet/black,
+/area/ruin/powered)
+"Md" = (
+/obj/structure/window/reinforced,
+/turf/template_noop,
+/area/ruin/powered)
+"MN" = (
+/obj/structure/bookcase{
+	name = "Forbidden Knowledge"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"MU" = (
+/obj/structure/closet/crate,
+/obj/machinery/firealarm{
+	dir = 1;
+	pixel_y = -26
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Nf" = (
+/obj/structure/lattice,
+/turf/template_noop,
+/area/ruin/powered)
+"Nn" = (
+/turf/open/floor/plating/dirt,
+/area/ruin/powered)
+"Nx" = (
+/obj/structure/reagent_dispensers/fueltank,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"Oi" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"OR" = (
+/obj/machinery/seed_extractor,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"Ph" = (
+/obj/structure/reagent_dispensers/watertank,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"Ps" = (
+/obj/structure/sink{
+	dir = 8;
+	pixel_x = 11
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"Py" = (
+/obj/structure/lattice,
+/obj/structure/grille,
+/turf/template_noop,
+/area/ruin/powered)
+"PE" = (
+/obj/machinery/shower{
+	dir = 8;
+	pixel_y = -4
+	},
+/turf/open/floor/plasteel/showroomfloor,
+/area/ruin/powered)
+"PL" = (
+/obj/effect/mapping_helpers/airlock/cyclelink_helper{
+	dir = 8
+	},
+/obj/machinery/door/airlock/external,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"PU" = (
+/turf/open/floor/plasteel/grimy,
+/area/ruin/powered)
+"Qj" = (
+/obj/structure/bookcase/random/nonfiction,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Qq" = (
+/obj/structure/table/wood/fancy,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"Qz" = (
+/obj/machinery/door/window/northright{
+	name = "Secure Art Exhibit";
+	req_access_txt = "37"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"QQ" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"QX" = (
+/obj/structure/table,
+/turf/open/floor/plating/asteroid,
+/area/ruin/powered)
+"Re" = (
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"RC" = (
+/obj/structure/window/reinforced{
+	dir = 8;
+	layer = 2.9
+	},
+/turf/template_noop,
+/area/ruin/powered)
+"RG" = (
+/obj/structure/sign/plaques/deempisi{
+	pixel_y = 28
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"RI" = (
+/obj/effect/spawner/structure/window/reinforced,
+/turf/closed/mineral,
+/area/ruin/powered)
+"RN" = (
+/obj/effect/spawner/structure/window/reinforced,
+/obj/structure/sign/warning/vacuum/external,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"RU" = (
+/obj/structure/bookcase/random/adult,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"RX" = (
+/obj/effect/turf_decal/sand,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"Sd" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Si" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/window/reinforced,
+/obj/structure/lattice,
+/turf/template_noop,
+/area/ruin/powered)
+"Sx" = (
+/obj/structure/flora/ausbushes,
+/turf/open/floor/plating/asteroid,
+/area/ruin/powered)
+"SF" = (
+/turf/open/floor/plasteel/chapel{
+	dir = 8
+	},
+/area/ruin/powered)
+"SN" = (
+/turf/closed/mineral,
+/area/ruin/powered)
+"Tm" = (
+/turf/closed/wall/mineral/iron,
+/area/ruin/powered)
+"Ty" = (
+/obj/machinery/door/airlock/grunge{
+	name = "Chapel Office";
+	req_access_txt = "22"
+	},
+/obj/effect/mapping_helpers/airlock/cyclelink_helper{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"TC" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/carpet/black,
+/area/ruin/powered)
+"TF" = (
+/obj/structure/table/wood/fancy,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"TM" = (
+/obj/structure/chair{
+	dir = 1
+	},
+/turf/open/floor/plating/asteroid,
+/area/ruin/powered)
+"TR" = (
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"Ul" = (
+/obj/machinery/door/morgue{
+	name = "Private Exhibit";
+	req_access_txt = "37"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Uq" = (
+/obj/effect/turf_decal/tile/red{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/red,
+/obj/effect/turf_decal/tile/red{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"UB" = (
+/obj/machinery/door/airlock{
+	name = "Kitchen"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"UC" = (
+/obj/structure/table/wood,
+/obj/structure/sign/poster/official/soft_cap_pop_art{
+	pixel_y = 32
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"UN" = (
+/obj/structure/chair/wood,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"UO" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/window/reinforced,
+/turf/template_noop,
+/area/ruin/powered)
+"UP" = (
+/obj/structure/lattice,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/window/reinforced,
+/turf/template_noop,
+/area/ruin/powered)
+"UV" = (
+/obj/structure/closet/emcloset,
+/obj/effect/decal/cleanable/cobweb,
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Vh" = (
+/obj/structure/closet/secure_closet/freezer/fridge/open,
+/obj/machinery/light/small,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"Vk" = (
+/obj/effect/mapping_helpers/airlock/cyclelink_helper{
+	dir = 4
+	},
+/obj/machinery/door/airlock/external,
+/turf/open/floor/plating,
+/area/ruin/powered)
+"Vq" = (
+/obj/structure/window/reinforced{
+	dir = 1;
+	pixel_y = 1
+	},
+/obj/structure/window/reinforced{
+	dir = 4;
+	layer = 2.9
+	},
+/turf/template_noop,
+/area/ruin/powered)
+"Vs" = (
+/obj/structure/chair/wood{
+	dir = 1
+	},
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"Vw" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/obj/structure/sign/warning/vacuum/external{
+	pixel_x = -32
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"VD" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/lattice,
+/obj/structure/window/reinforced,
+/turf/template_noop,
+/area/ruin/powered)
+"VS" = (
+/obj/structure/table,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"Wd" = (
+/obj/structure/chair{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Wi" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/powered)
+"Wj" = (
+/obj/structure/closet/crate/bin,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"WZ" = (
+/obj/structure/bookcase/random/fiction,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Xa" = (
+/obj/structure/closet/crate/bin,
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"Xb" = (
+/obj/machinery/door/airlock/external{
+	name = "Dock Access"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Xm" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/structure/chair/wood,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Xn" = (
+/obj/structure/chair,
+/turf/open/floor/plating/asteroid,
+/area/ruin/powered)
+"Xr" = (
+/obj/structure/closet,
+/obj/machinery/light/small,
+/turf/open/floor/carpet,
+/area/ruin/powered)
+"XS" = (
+/obj/structure/window/reinforced{
+	dir = 1;
+	pixel_y = 2
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"XT" = (
+/turf/open/floor/plasteel/chapel{
+	dir = 1
+	},
+/area/ruin/powered)
+"XU" = (
+/turf/open/floor/plasteel,
+/area/ruin/powered)
+"Ye" = (
+/obj/structure/lattice,
+/turf/closed/mineral,
+/area/ruin/powered)
+"Yx" = (
+/obj/structure/chair/wood{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"YJ" = (
+/obj/structure/toilet{
+	pixel_y = 8
+	},
+/turf/open/floor/plasteel/showroomfloor,
+/area/ruin/powered)
+"Za" = (
+/obj/structure/table,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+"Zx" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered)
+
+(1,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+eU
+eU
+fn
+eU
+eU
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+SN
+SN
+fn
+Vk
+fn
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(2,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+eU
+eU
+dU
+ks
+Af
+eU
+eU
+DN
+DN
+DN
+DN
+SN
+SN
+SN
+SN
+SN
+SN
+fn
+uV
+fn
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(3,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+fn
+LY
+LY
+pb
+LY
+LY
+fn
+DN
+DN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+fn
+pf
+fn
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(4,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+SN
+SN
+SN
+eU
+eU
+TC
+Ez
+Ez
+Ez
+wY
+eU
+eU
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+eU
+eU
+fn
+PL
+fn
+eU
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(5,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+SN
+eU
+eU
+eU
+eU
+RG
+LY
+fa
+fa
+fa
+LY
+uy
+eU
+eU
+SN
+SN
+SN
+SN
+SN
+SN
+eU
+UV
+ir
+uy
+Za
+eU
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(6,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+eU
+eU
+TF
+TF
+eU
+uy
+oA
+Uq
+cJ
+ud
+Re
+wT
+vM
+eU
+eU
+eU
+eU
+eU
+eU
+eU
+eU
+Za
+uy
+uy
+Wd
+eU
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(7,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+sm
+Bc
+Sd
+mv
+eU
+QQ
+oA
+Uq
+cJ
+ud
+Re
+wT
+Xr
+eU
+mw
+AO
+Vh
+eU
+fr
+Gn
+eU
+eU
+uy
+uy
+eU
+eU
+eU
+eU
+sa
+sa
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(8,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+SN
+eU
+QQ
+uy
+uy
+fY
+uy
+oA
+Uq
+cJ
+ud
+Re
+wT
+ma
+eU
+XU
+XU
+XU
+XU
+XU
+VS
+eU
+eU
+eU
+Xb
+eU
+FN
+FN
+eU
+fn
+fn
+qu
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(9,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+SN
+SN
+eU
+GZ
+uy
+uy
+eU
+uy
+oA
+Uq
+cJ
+ud
+Re
+uy
+eU
+eU
+ck
+XU
+kD
+tF
+XU
+bJ
+eU
+uy
+iQ
+uy
+Vw
+uy
+uy
+ir
+uy
+fn
+Vq
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(10,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+pS
+SN
+SN
+eU
+eU
+eU
+eU
+eU
+eU
+yd
+Uq
+cJ
+ud
+mW
+eU
+eU
+eU
+OR
+XU
+XU
+XU
+XU
+Xa
+eU
+uy
+LS
+Bc
+Bc
+uy
+uy
+uy
+ub
+fn
+fn
+qu
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(11,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+Md
+fn
+SN
+RI
+RI
+SN
+SN
+eU
+Gy
+Kn
+uy
+Uq
+cJ
+ud
+FN
+eU
+SN
+eU
+wX
+sy
+Ps
+XU
+XU
+eL
+eU
+uy
+HD
+UN
+UN
+wT
+Qq
+ub
+ub
+ub
+tL
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(12,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+Md
+fn
+SN
+SN
+SN
+SN
+nL
+eU
+Kn
+eU
+eU
+eU
+Ty
+eU
+eU
+eU
+SN
+eU
+eU
+eU
+eU
+UB
+eU
+eU
+eU
+uy
+HD
+UN
+UN
+wT
+Qq
+ub
+ub
+ub
+tL
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(13,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+Md
+fn
+RI
+nL
+SN
+nL
+nL
+nL
+nL
+nL
+uJ
+wS
+RX
+wS
+SN
+SN
+SN
+eU
+uy
+gY
+uy
+uy
+ir
+je
+eU
+uy
+LS
+Bc
+Bc
+uy
+uy
+uy
+ub
+fn
+fn
+qu
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(14,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+Py
+Py
+Py
+Py
+UO
+fn
+od
+nL
+nL
+nL
+nL
+nL
+nL
+od
+nL
+wS
+RX
+wS
+SN
+SN
+SN
+eU
+Bc
+FN
+vw
+uy
+uy
+Yx
+eU
+uy
+gg
+uy
+Zx
+uy
+uy
+Zx
+uy
+fn
+nB
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(15,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+Py
+DN
+DN
+VD
+fn
+fn
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+wS
+AY
+wS
+SN
+SN
+SN
+eU
+Bc
+FN
+vw
+uy
+Bc
+FN
+eU
+eU
+eU
+Dx
+eU
+Hb
+FN
+eU
+fn
+fn
+qu
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+SN
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(16,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+Nf
+pS
+UO
+fn
+fn
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+Sx
+nL
+od
+wS
+RX
+wS
+SN
+SN
+SN
+eU
+uy
+ji
+Zx
+uy
+uy
+ji
+eU
+uy
+ir
+uy
+eU
+eU
+eU
+eU
+RC
+RC
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+SN
+SN
+SN
+SN
+SN
+Ye
+DN
+DN
+DN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(17,1,1) = {"
+DN
+DN
+DN
+DN
+Py
+Nf
+Py
+Py
+Py
+Py
+IU
+uS
+fn
+fn
+fn
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+eU
+eU
+eU
+eU
+nF
+eU
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+qw
+Tm
+Tm
+Tm
+LR
+Tm
+Tm
+Tm
+Jc
+uV
+eU
+eU
+Wi
+DN
+DN
+DN
+DN
+DN
+DN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+Nf
+DN
+DN
+DN
+SN
+Ye
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+DN
+DN
+DN
+DN
+"}
+(18,1,1) = {"
+DN
+DN
+DN
+DN
+Py
+DN
+DN
+bD
+pS
+bD
+UO
+fn
+fn
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+eU
+eU
+eU
+uy
+Bs
+uy
+uy
+uy
+Tm
+uy
+HW
+uy
+ir
+uy
+HW
+uy
+HW
+uy
+ir
+uy
+HW
+uy
+Tm
+uV
+uV
+uV
+eU
+eU
+DN
+DN
+DN
+DN
+DN
+DN
+SN
+SN
+SN
+Ye
+SN
+Ye
+DN
+Nf
+DN
+DN
+DN
+DN
+Nf
+DN
+SN
+SN
+SN
+SN
+SN
+SN
+DN
+DN
+DN
+DN
+"}
+(19,1,1) = {"
+DN
+DN
+DN
+DN
+py
+Nf
+uS
+fn
+fn
+fn
+fn
+fn
+Sx
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+od
+eU
+Bc
+rx
+vw
+eU
+QQ
+uy
+uy
+Ku
+HW
+HW
+HW
+HW
+HW
+HW
+uy
+HW
+HW
+HW
+HW
+HW
+HW
+Tm
+uV
+uV
+uV
+yG
+eU
+SN
+DN
+DN
+DN
+DN
+DN
+SN
+SN
+SN
+Nf
+DN
+Nf
+DN
+Nf
+Nf
+Nf
+Nf
+Nf
+Nf
+DN
+SN
+SN
+Ye
+SN
+SN
+SN
+DN
+DN
+DN
+DN
+"}
+(20,1,1) = {"
+DN
+fj
+Py
+Py
+Py
+Md
+fn
+fn
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+eU
+eU
+eU
+Bs
+eU
+eU
+eU
+eU
+qE
+eU
+Tm
+uy
+HW
+eU
+wS
+wS
+eU
+dC
+eU
+wS
+wS
+eU
+HW
+uy
+Tm
+Gy
+uV
+uV
+uV
+eU
+SN
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+Nf
+DN
+Nf
+DN
+Nf
+DN
+DN
+DN
+DN
+Nf
+DN
+DN
+DN
+Nf
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+"}
+(21,1,1) = {"
+pS
+pS
+sa
+qD
+sa
+uk
+fn
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+eU
+ir
+uy
+uy
+ir
+uy
+uy
+ir
+uy
+eU
+Tm
+HW
+HW
+wS
+Nn
+Nn
+Nn
+Nn
+Nn
+Nn
+Nn
+wS
+HW
+HW
+Tm
+uV
+uV
+uV
+uV
+eU
+SN
+SN
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+eU
+fn
+eU
+fn
+eU
+eU
+fn
+eU
+fn
+eU
+fn
+Nf
+Nf
+Nf
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(22,1,1) = {"
+fn
+fn
+ne
+lh
+lh
+lh
+lh
+eU
+nL
+dT
+nL
+dT
+nL
+dT
+nL
+dT
+nL
+dT
+eU
+eU
+uy
+tk
+GN
+tk
+GN
+XT
+SF
+uy
+uy
+Tm
+HW
+HW
+wS
+Nn
+Nn
+Nn
+Nn
+Nn
+Nn
+Nn
+wS
+HW
+HW
+Fc
+uV
+uV
+uV
+uV
+eU
+eU
+eU
+eU
+eU
+Nf
+Nf
+Nf
+Nf
+eU
+eU
+uy
+ir
+uy
+uy
+uy
+uy
+ir
+uy
+uy
+fn
+DN
+DN
+Nf
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(23,1,1) = {"
+mx
+uV
+ph
+uy
+ir
+uy
+ng
+eU
+eU
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+eU
+uy
+uy
+Ew
+lv
+Ew
+ER
+rT
+ER
+uy
+zr
+Tm
+nM
+HW
+eU
+Nn
+Nn
+Nn
+Nn
+Nn
+Nn
+Nn
+eU
+HW
+md
+Tm
+Gy
+uV
+uV
+Nx
+eU
+SN
+eU
+SN
+DN
+DN
+DN
+DN
+DN
+eU
+Ih
+uy
+uy
+uy
+UN
+Qq
+Qq
+Vs
+uy
+uy
+eU
+eU
+fn
+Nf
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(24,1,1) = {"
+fn
+fn
+RN
+uy
+HW
+HW
+uy
+HW
+pJ
+RX
+RX
+RX
+RX
+RX
+RX
+RX
+RX
+RX
+qE
+uy
+wT
+wT
+wT
+wT
+wT
+wT
+lI
+wT
+uy
+qE
+uy
+HW
+wS
+Nn
+Nn
+Nn
+Nn
+Nn
+Nn
+Nn
+wS
+HW
+uy
+Tm
+TR
+yk
+uV
+Ph
+eU
+SN
+eU
+eU
+Nf
+Nf
+Nf
+Nf
+Nf
+eU
+pW
+uy
+uy
+uy
+UN
+Qq
+Qq
+Vs
+uy
+uy
+Jz
+KF
+fn
+eU
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(25,1,1) = {"
+rt
+fn
+HW
+uy
+HW
+HW
+uy
+HW
+pJ
+RX
+RX
+RX
+RX
+RX
+RX
+RX
+RX
+RX
+qE
+uy
+wT
+wT
+wT
+wT
+wT
+wT
+pm
+wT
+uy
+qE
+uy
+HW
+wS
+Nn
+Nn
+Nn
+Nn
+Nn
+Nn
+Nn
+wS
+HW
+uy
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+SN
+DN
+DN
+DN
+DN
+DN
+eU
+Ax
+uy
+uy
+uy
+UN
+Qq
+Qq
+Vs
+uy
+HW
+zB
+uy
+kv
+eU
+fn
+DN
+DN
+DN
+DN
+SN
+DN
+"}
+(26,1,1) = {"
+Md
+fn
+HW
+uy
+uy
+uy
+md
+eU
+eU
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+eU
+uy
+uy
+tk
+GN
+tk
+SF
+XT
+SF
+uy
+zr
+Tm
+nM
+HW
+eU
+Nn
+Nn
+Nn
+Nn
+Nn
+Nn
+Nn
+eU
+HW
+md
+Tm
+uy
+FF
+oO
+FN
+vw
+Fq
+Tm
+Tm
+eU
+wS
+wS
+wS
+eU
+eU
+zq
+uy
+uy
+uy
+uy
+uy
+uy
+uy
+uy
+HW
+zB
+uy
+uy
+uy
+fn
+Nf
+Nf
+Nf
+Ye
+SN
+SN
+"}
+(27,1,1) = {"
+Md
+lh
+lh
+lh
+BM
+eU
+eU
+eU
+nL
+dT
+nL
+dT
+nL
+dT
+nL
+dT
+nL
+dT
+eU
+eU
+uy
+Ew
+lv
+Ew
+lv
+rT
+ER
+uy
+uy
+Tm
+HW
+HW
+wS
+Nn
+Nn
+Nn
+Nn
+Nn
+Nn
+Nn
+wS
+HW
+HW
+Hj
+wT
+wT
+wT
+wT
+wT
+wT
+wT
+dH
+DF
+zM
+zM
+zM
+xU
+Eo
+wT
+wT
+wT
+wT
+wT
+wT
+wT
+uy
+uy
+HW
+zB
+Jl
+uy
+DZ
+fn
+DN
+DN
+DN
+SN
+SN
+SN
+"}
+(28,1,1) = {"
+DN
+rt
+fn
+uy
+uy
+xZ
+mq
+eU
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+eU
+Zx
+uy
+uy
+Zx
+uy
+uy
+Zx
+uy
+eU
+Tm
+HW
+HW
+wS
+Nn
+Nn
+Nn
+Nn
+Nn
+Nn
+Nn
+wS
+HW
+HW
+Hj
+wT
+wT
+wT
+wT
+wT
+wT
+wT
+dH
+jQ
+qN
+CL
+qN
+Oi
+Eo
+wT
+wT
+wT
+wT
+wT
+wT
+wT
+uy
+uy
+HW
+zB
+Jl
+uy
+oY
+fn
+DN
+DN
+DN
+SN
+SN
+SN
+"}
+(29,1,1) = {"
+DN
+Md
+fn
+iR
+uy
+xZ
+nO
+eU
+nL
+nL
+nL
+nL
+nL
+Sx
+nL
+nL
+nL
+nL
+nL
+eU
+eU
+FN
+FN
+eU
+FN
+FN
+eU
+Ku
+eU
+Tm
+uy
+HW
+eU
+wS
+wS
+eU
+dC
+eU
+wS
+wS
+eU
+HW
+uy
+Tm
+uy
+je
+uy
+wB
+uy
+dD
+Tm
+Tm
+eU
+wS
+wS
+wS
+eU
+eU
+uy
+uy
+uy
+uy
+uy
+uy
+uy
+uy
+uy
+HW
+zB
+uy
+uy
+MN
+fn
+DN
+DN
+SN
+SN
+SN
+SN
+"}
+(30,1,1) = {"
+DN
+Md
+fn
+jZ
+uy
+sn
+nO
+lh
+fn
+fn
+fn
+fn
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+eU
+eU
+eU
+eU
+eU
+eU
+eU
+QQ
+uy
+Ku
+uy
+HW
+HW
+HW
+HW
+HW
+uy
+HW
+HW
+HW
+HW
+HW
+HW
+Tm
+Tm
+oU
+uy
+Fg
+uy
+RU
+Tm
+SN
+DN
+DN
+DN
+DN
+DN
+eU
+ii
+uy
+uy
+uy
+FN
+FN
+FN
+FN
+uy
+HW
+zB
+uy
+kv
+eU
+fn
+DN
+DN
+SN
+SN
+SN
+SN
+"}
+(31,1,1) = {"
+DN
+Md
+lh
+fn
+fn
+lh
+ij
+lh
+jm
+Ca
+eP
+fn
+fn
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+od
+nL
+RX
+Ku
+uy
+uy
+Tm
+uy
+uy
+uy
+Zx
+uy
+HW
+uy
+HW
+uy
+Zx
+uy
+HW
+uy
+Tm
+Tm
+ii
+uy
+Qj
+uy
+eH
+Tm
+eU
+Nf
+Nf
+Nf
+Nf
+Nf
+eU
+oU
+uy
+uy
+uy
+fQ
+ji
+ji
+FN
+uy
+uy
+Fh
+KF
+fn
+eU
+Nf
+Nf
+Nf
+Ye
+SN
+SN
+SN
+"}
+(32,1,1) = {"
+DN
+DN
+JC
+JC
+JC
+IQ
+rv
+IQ
+Nf
+Py
+Nf
+Si
+fn
+fn
+fn
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+RX
+Ku
+uy
+uy
+Tm
+Tm
+Vk
+Tm
+Tm
+Aj
+Tm
+Tm
+Tm
+Aj
+Tm
+Tm
+Tm
+bm
+Tm
+Tm
+uZ
+uy
+WZ
+uy
+RU
+Tm
+SN
+SN
+DN
+DN
+DN
+DN
+eU
+FN
+uy
+uy
+uy
+FN
+uy
+uy
+FN
+uy
+uy
+eU
+eU
+fn
+Nf
+DN
+DN
+DN
+SN
+SN
+SN
+SN
+"}
+(33,1,1) = {"
+DN
+DN
+Py
+Py
+DN
+DN
+ge
+DN
+Nf
+Py
+Py
+Nf
+vO
+UP
+fn
+fn
+nL
+nL
+nL
+nL
+RX
+RX
+RX
+nL
+nL
+RX
+eU
+Xm
+FN
+eU
+sA
+uV
+Tm
+zO
+PU
+If
+Tm
+zO
+PU
+If
+Tm
+EA
+HW
+Yx
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+eU
+eU
+Nf
+Nf
+Nf
+Nf
+eU
+eU
+uy
+Zx
+uy
+uy
+uy
+uy
+Zx
+uy
+uy
+fn
+DN
+DN
+Nf
+DN
+DN
+SN
+SN
+SN
+SN
+SN
+"}
+(34,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DL
+Nf
+Nf
+DN
+DN
+Nf
+Nf
+Nf
+UP
+fn
+fn
+fn
+od
+nL
+Ge
+Vk
+fn
+nL
+nL
+nL
+eU
+sm
+eU
+eU
+eU
+PL
+Tm
+hn
+PU
+zi
+Tm
+hn
+PU
+zi
+Tm
+HW
+uy
+sg
+Tm
+uy
+HW
+EE
+HW
+uy
+Tm
+Tm
+Tm
+SN
+DN
+DN
+DN
+Nf
+eU
+fn
+eU
+fn
+eU
+eU
+fn
+eU
+fn
+eU
+fn
+Nf
+Nf
+Nf
+Nf
+Ye
+SN
+SN
+SN
+SN
+DN
+"}
+(35,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+Nf
+Nf
+gr
+eP
+fn
+fn
+fn
+fn
+Gy
+fn
+nL
+nL
+nL
+nL
+Xn
+QX
+TM
+nL
+RX
+Tm
+Ef
+PU
+hu
+Tm
+He
+PU
+hu
+Tm
+uy
+HW
+ji
+Tm
+HW
+HW
+HW
+HW
+HW
+XS
+he
+Tm
+SN
+DN
+DN
+DN
+Nf
+DN
+DN
+Nf
+DN
+DN
+Nf
+DN
+Nf
+DN
+Nf
+DN
+DN
+DN
+DN
+DN
+SN
+SN
+DN
+SN
+SN
+DN
+"}
+(36,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+Nf
+Nf
+Nf
+gr
+gr
+pF
+fn
+PL
+fn
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+HE
+Tm
+Tm
+nv
+Tm
+Tm
+Tm
+nv
+Tm
+Tm
+lm
+uy
+HW
+wT
+wT
+wT
+wT
+wT
+wT
+wV
+TF
+Tm
+SN
+SN
+DN
+DN
+Nf
+Nf
+Nf
+Nf
+DN
+DN
+Nf
+Nf
+Nf
+DN
+Nf
+DN
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(37,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+Nf
+DN
+DN
+Nf
+DN
+xu
+DN
+fn
+nL
+nL
+od
+nL
+nL
+nL
+nL
+od
+ai
+Tm
+nJ
+hS
+PE
+Tm
+YJ
+hS
+JY
+Tm
+uy
+HW
+uy
+wT
+wT
+wT
+wT
+wT
+wT
+Qz
+TF
+Tm
+SN
+SN
+DN
+DN
+Nf
+DN
+DN
+Nf
+SN
+SN
+Ye
+SN
+Nf
+DN
+Nf
+SN
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(38,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+fn
+fn
+fn
+fn
+fn
+fn
+fn
+fn
+fn
+fn
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+HW
+uy
+BX
+Tm
+HW
+HW
+HW
+HW
+HW
+XS
+he
+Tm
+SN
+SN
+DN
+DN
+Nf
+DN
+SN
+Ye
+SN
+SN
+SN
+SN
+Ye
+SN
+Ye
+SN
+SN
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(39,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+gr
+vO
+vO
+vO
+vO
+vO
+vO
+vO
+vO
+vO
+SN
+SN
+Tm
+FN
+uy
+EE
+HC
+uy
+Dw
+mK
+oM
+FN
+Tm
+am
+HW
+Io
+HW
+uy
+Tm
+Tm
+Tm
+SN
+DN
+DN
+DN
+Ye
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(40,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+SN
+Tm
+xj
+uy
+HW
+HW
+uy
+Tm
+Tm
+Tm
+Tm
+Tm
+Ul
+Tm
+Tm
+Tm
+Tm
+Tm
+SN
+SN
+SN
+DN
+DN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(41,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+SN
+Tm
+FN
+Yx
+BX
+BX
+uy
+Tm
+Bw
+lg
+uy
+uy
+uy
+Wj
+Tm
+SN
+SN
+SN
+SN
+SN
+DN
+DN
+DN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+DN
+DN
+SN
+SN
+SN
+SN
+SN
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(42,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+SN
+Tm
+UC
+FN
+FN
+FN
+MU
+Tm
+Ep
+lg
+uy
+bT
+lg
+lg
+Tm
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+SN
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+SN
+SN
+SN
+SN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
+(43,1,1) = {"
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+Tm
+Tm
+fn
+fn
+fn
+fn
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+Tm
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+DN
+"}
