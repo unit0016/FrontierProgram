@@ -134,6 +134,10 @@
 	},
 /turf/open/floor/plasteel,
 /area/science/xenobiology)
+"aP" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/dark,
+/area/security/nuke_storage)
 "aR" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel,
@@ -520,12 +524,6 @@
 	icon_state = "panelscorched"
 	},
 /area/maintenance/central)
-"cC" = (
-/obj/structure/chair/stool,
-/obj/effect/decal/cleanable/dirt,
-/obj/structure/cable,
-/turf/open/floor/plasteel,
-/area/gateway)
 "cF" = (
 /obj/effect/spawner/structure/window/hollow/reinforced/directional{
 	dir = 10
@@ -878,16 +876,6 @@
 	},
 /turf/open/floor/plating,
 /area/maintenance/central)
-"er" = (
-/obj/effect/decal/cleanable/dirt,
-/obj/machinery/door/airlock/vault{
-	name = "Vault Door";
-	req_access_txt = "53"
-	},
-/obj/effect/mapping_helpers/airlock/locked,
-/obj/structure/cable,
-/turf/open/floor/plasteel/dark,
-/area/security/nuke_storage)
 "ev" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/rnd/bepis,
@@ -955,10 +943,6 @@
 /obj/structure/cable,
 /turf/open/floor/plasteel,
 /area/hallway/primary/central)
-"eL" = (
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plasteel/dark,
-/area/security/nuke_storage)
 "eO" = (
 /obj/effect/turf_decal/trimline/green/filled/line{
 	dir = 10
@@ -1902,6 +1886,12 @@
 	},
 /turf/open/floor/plating,
 /area/maintenance/central)
+"jF" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/computer/bank_machine,
+/obj/machinery/camera/autoname,
+/turf/open/floor/plasteel/dark,
+/area/security/nuke_storage)
 "jJ" = (
 /obj/structure/closet/secure_closet/personal/cabinet,
 /obj/effect/decal/cleanable/dirt,
@@ -1955,11 +1945,6 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/science/xenobiology)
-"jT" = (
-/obj/effect/decal/cleanable/dirt,
-/obj/structure/cable,
-/turf/open/floor/plasteel,
-/area/gateway)
 "jV" = (
 /obj/machinery/light/small{
 	brightness = 3;
@@ -2424,6 +2409,16 @@
 	icon_state = "floorscorched1"
 	},
 /area/ruin/unpowered)
+"mn" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/door/airlock/vault{
+	name = "Vault Door";
+	req_access_txt = "53"
+	},
+/obj/effect/mapping_helpers/airlock/locked,
+/obj/structure/cable,
+/turf/open/floor/plasteel/dark,
+/area/security/nuke_storage)
 "mo" = (
 /obj/machinery/door/window/brigdoor{
 	dir = 1;
@@ -6033,6 +6028,11 @@
 "DS" = (
 /turf/open/floor/carpet/black/airless,
 /area/ruin/unpowered)
+"DY" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/closet/secure_closet/freezer/cream_pie,
+/turf/open/floor/plasteel/dark,
+/area/security/nuke_storage)
 "Ea" = (
 /obj/effect/turf_decal/trimline/yellow/filled/line{
 	dir = 8
@@ -6253,11 +6253,6 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/white,
 /area/science/mixing)
-"EW" = (
-/obj/effect/decal/cleanable/dirt,
-/obj/machinery/computer/bank_machine,
-/turf/open/floor/plasteel/dark,
-/area/security/nuke_storage)
 "EX" = (
 /obj/effect/landmark/start/chaplain,
 /obj/structure/chair/wood{
@@ -6689,9 +6684,6 @@
 /obj/item/storage/toolbox/electrical,
 /turf/open/floor/plasteel,
 /area/engine/engineering)
-"Hb" = (
-/turf/closed/wall/r_wall/rust,
-/area/security/nuke_storage)
 "Hc" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 4
@@ -6907,8 +6899,8 @@
 /obj/machinery/light,
 /turf/open/floor/plasteel/dark,
 /area/engine/engineering)
-"If" = (
-/turf/closed/wall/r_wall,
+"Ih" = (
+/turf/closed/wall/r_wall/rust,
 /area/security/nuke_storage)
 "Ii" = (
 /obj/effect/spawner/structure/window/hollow/reinforced/directional{
@@ -7215,12 +7207,6 @@
 	},
 /turf/open/floor/plating,
 /area/hallway/secondary/entry)
-"Jw" = (
-/obj/effect/decal/cleanable/dirt,
-/obj/structure/filingcabinet,
-/obj/item/folder/documents,
-/turf/open/floor/plasteel/dark,
-/area/security/nuke_storage)
 "Jx" = (
 /obj/effect/turf_decal/stripes/asteroid/line{
 	dir = 4
@@ -7363,6 +7349,11 @@
 /obj/structure/chair/sofa/left,
 /turf/open/floor/wood,
 /area/medical/psychology)
+"Ka" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/cable,
+/turf/open/floor/plasteel/dark,
+/area/security/nuke_storage)
 "Kf" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/atmospherics/components/trinary/mixer/airmix{
@@ -7717,26 +7708,6 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/hallway/secondary/entry)
-"LE" = (
-/obj/effect/decal/cleanable/dirt,
-/obj/structure/cable,
-/obj/machinery/power/apc/auto_name/north,
-/obj/structure/safe,
-/obj/item/book{
-	desc = "An undeniably handy book.";
-	icon_state = "bookknock";
-	name = "\improper A Simpleton's Guide to Safe-cracking with Stethoscopes"
-	},
-/obj/item/ammo_box/a357,
-/obj/item/clothing/neck/stethoscope,
-/obj/item/gun/ballistic/revolver/russian,
-/obj/item/gun/energy/disabler,
-/obj/item/lazarus_injector,
-/obj/item/storage/secure/briefcase{
-	contents = newlist(/obj/item/clothing/suit/armor/vest,/obj/item/gun/ballistic/automatic/pistol,/obj/item/suppressor,/obj/item/melee/classic_baton/telescopic,/obj/item/clothing/mask/balaclava,/obj/item/bodybag,/obj/item/soap/nanotrasen)
-	},
-/turf/open/floor/plasteel/dark,
-/area/security/nuke_storage)
 "LJ" = (
 /obj/machinery/portable_atmospherics/canister/air,
 /obj/effect/decal/cleanable/dirt,
@@ -7759,11 +7730,6 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel,
 /area/gateway)
-"LR" = (
-/obj/effect/decal/cleanable/dirt,
-/obj/structure/closet/secure_closet/freezer/cream_pie,
-/turf/open/floor/plasteel/dark,
-/area/security/nuke_storage)
 "LT" = (
 /obj/structure/lattice,
 /obj/machinery/atmospherics/pipe/heat_exchanging/simple{
@@ -7802,11 +7768,6 @@
 	},
 /turf/open/floor/plasteel,
 /area/gateway)
-"Mg" = (
-/obj/effect/decal/cleanable/dirt,
-/obj/structure/cable,
-/turf/open/floor/plasteel/dark,
-/area/security/nuke_storage)
 "Mh" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable,
@@ -8160,14 +8121,6 @@
 /obj/structure/grille,
 /turf/open/space/basic,
 /area/space/nearstation)
-"NH" = (
-/obj/effect/decal/cleanable/dirt,
-/obj/machinery/door/airlock/public/glass{
-	name = "Crew Quarters Access"
-	},
-/obj/structure/cable,
-/turf/open/floor/plasteel,
-/area/gateway)
 "NI" = (
 /obj/effect/spawner/structure/window/hollow/reinforced/end{
 	dir = 1
@@ -8551,6 +8504,14 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/dark,
 /area/gateway)
+"PH" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/door/airlock/public/glass{
+	name = "Crew Quarters Access"
+	},
+/obj/structure/cable,
+/turf/open/floor/plasteel,
+/area/gateway)
 "PI" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
@@ -8796,14 +8757,8 @@
 /turf/open/floor/wood,
 /area/library)
 "QV" = (
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/turf_decal/tile/neutral,
-/obj/effect/turf_decal/tile/neutral{
-	dir = 4
-	},
 /turf/closed/wall/r_wall,
-/area/science/xenobiology)
+/area/security/nuke_storage)
 "QX" = (
 /obj/machinery/light,
 /obj/effect/turf_decal/tile/neutral,
@@ -9261,6 +9216,12 @@
 /obj/structure/cable,
 /turf/open/floor/plasteel,
 /area/science/mixing)
+"Tf" = (
+/obj/structure/chair/stool,
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/cable,
+/turf/open/floor/plasteel,
+/area/gateway)
 "Tj" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/conveyor{
@@ -9296,6 +9257,11 @@
 /obj/structure/cable,
 /turf/open/floor/plasteel,
 /area/engine/engineering)
+"Tu" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/cable,
+/turf/open/floor/plasteel,
+/area/gateway)
 "Tv" = (
 /obj/machinery/light/small,
 /obj/machinery/camera{
@@ -9907,6 +9873,12 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel,
 /area/gateway)
+"WP" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/filingcabinet,
+/obj/item/folder/documents,
+/turf/open/floor/plasteel/dark,
+/area/security/nuke_storage)
 "WR" = (
 /obj/machinery/door/airlock{
 	id_tag = "Cabin5";
@@ -9942,6 +9914,26 @@
 /obj/item/clothing/shoes/combat,
 /turf/open/floor/plasteel,
 /area/gateway)
+"WZ" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/cable,
+/obj/machinery/power/apc/auto_name/north,
+/obj/structure/safe,
+/obj/item/book{
+	desc = "An undeniably handy book.";
+	icon_state = "bookknock";
+	name = "\improper A Simpleton's Guide to Safe-cracking with Stethoscopes"
+	},
+/obj/item/ammo_box/a357,
+/obj/item/clothing/neck/stethoscope,
+/obj/item/gun/ballistic/revolver/russian,
+/obj/item/gun/energy/disabler,
+/obj/item/lazarus_injector,
+/obj/item/storage/secure/briefcase{
+	contents = newlist(/obj/item/clothing/suit/armor/vest,/obj/item/gun/ballistic/automatic/pistol,/obj/item/suppressor,/obj/item/melee/classic_baton/telescopic,/obj/item/clothing/mask/balaclava,/obj/item/bodybag,/obj/item/soap/nanotrasen)
+	},
+/turf/open/floor/plasteel/dark,
+/area/security/nuke_storage)
 "Xc" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/flora/ausbushes/fullgrass,
@@ -32192,12 +32184,12 @@ nv
 nv
 nv
 bJ
-If
-If
-If
-If
-If
-Hb
+QV
+QV
+QV
+QV
+QV
+Ih
 PZ
 Ip
 LQ
@@ -32449,12 +32441,12 @@ nv
 nv
 bJ
 bJ
-If
-EW
-eL
-eL
-eL
-Hb
+QV
+jF
+aP
+aP
+aP
+Ih
 kp
 WK
 yv
@@ -32706,17 +32698,17 @@ nv
 nv
 bJ
 bJ
-If
-LE
-Mg
-Mg
-Mg
-er
-jT
-cC
-cC
-jT
-jT
+QV
+WZ
+Ka
+Ka
+Ka
+mn
+Tu
+Tf
+Tf
+Tu
+Tu
 VP
 VP
 VP
@@ -32963,17 +32955,17 @@ nv
 nv
 bJ
 bJ
-If
-eL
-eL
-eL
-eL
-If
+QV
+aP
+aP
+aP
+aP
+QV
 Me
 MT
 MT
 MT
-jT
+Tu
 VP
 FE
 jJ
@@ -33220,17 +33212,17 @@ nv
 nv
 bJ
 bJ
-If
-eL
-eL
-eL
-eL
-If
+QV
+aP
+aP
+aP
+aP
+QV
 GV
 mw
 kf
 MT
-jT
+Tu
 Cr
 Qs
 UX
@@ -33477,17 +33469,17 @@ nv
 nv
 bJ
 bJ
-If
-eL
-eL
-eL
-eL
-Hb
+QV
+aP
+aP
+aP
+aP
+Ih
 dy
 dy
 dy
 wv
-NH
+PH
 dy
 VP
 VP
@@ -33734,17 +33726,17 @@ nv
 nv
 nv
 bJ
-If
-LR
-eL
-eL
-Jw
-Hb
+QV
+DY
+aP
+aP
+WP
+Ih
 FG
 By
 VP
 Me
-jT
+Tu
 gV
 gV
 VP
@@ -33991,17 +33983,17 @@ nv
 nv
 nv
 bJ
-If
-If
-If
-If
-If
-Hb
+QV
+QV
+QV
+QV
+QV
+Ih
 fn
 ta
 VP
 MT
-jT
+Tu
 MT
 MT
 mi
@@ -35029,7 +35021,7 @@ nf
 Bw
 dy
 Pn
-jT
+Tu
 MT
 MT
 lx
@@ -53092,7 +53084,7 @@ pG
 pG
 pG
 DJ
-QV
+DJ
 pG
 ZA
 ZA
