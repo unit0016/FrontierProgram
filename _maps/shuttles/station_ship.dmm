@@ -476,25 +476,12 @@
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 1
 	},
-/obj/structure/table,
-/obj/item/clothing/head/welding{
-	pixel_x = -3;
-	pixel_y = 5
-	},
-/obj/item/stack/sheet/glass{
-	amount = 40;
-	pixel_x = 3;
-	pixel_y = -4
-	},
-/obj/item/stack/sheet/metal/fifty,
-/obj/item/clothing/glasses/welding,
-/obj/item/stack/cable_coil,
-/obj/item/storage/toolbox/mechanical{
-	pixel_x = 2;
-	pixel_y = 3
-	},
 /obj/structure/disposalpipe/segment{
 	dir = 6
+	},
+/obj/machinery/rnd/production/protolathe/department,
+/obj/structure/window/reinforced{
+	dir = 4
 	},
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
@@ -851,7 +838,6 @@
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "ec" = (
-/obj/machinery/rnd/destructive_analyzer,
 /obj/effect/turf_decal/trimline/purple/filled/line{
 	dir = 9
 	},
@@ -860,6 +846,12 @@
 	},
 /obj/structure/extinguisher_cabinet{
 	pixel_x = -27
+	},
+/obj/structure/table,
+/obj/item/clothing/glasses/welding,
+/obj/item/clothing/head/welding{
+	pixel_x = -3;
+	pixel_y = 5
 	},
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
@@ -871,9 +863,20 @@
 /turf/open/floor/plating/airless,
 /area/shuttle/shipstation)
 "ee" = (
-/obj/machinery/computer/rdconsole,
 /obj/effect/turf_decal/trimline/purple/filled/line{
 	dir = 1
+	},
+/obj/structure/table,
+/obj/item/stack/cable_coil,
+/obj/item/storage/toolbox/mechanical{
+	pixel_x = 2;
+	pixel_y = 3
+	},
+/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/glass{
+	amount = 40;
+	pixel_x = 3;
+	pixel_y = -4
 	},
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
@@ -976,7 +979,8 @@
 /obj/effect/turf_decal/trimline/purple/filled/line{
 	dir = 1
 	},
-/obj/machinery/rnd/production/protolathe/department,
+/obj/structure/table,
+/obj/machinery/cell_charger,
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "fa" = (
@@ -1132,10 +1136,25 @@
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "hh" = (
-/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
-/obj/effect/turf_decal/trimline/white/filled/line{
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/machinery/computer/rdconsole{
 	dir = 4
 	},
+/obj/effect/turf_decal/tile/purple{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/purple{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/purple{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/purple,
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "hj" = (
@@ -1718,6 +1737,23 @@
 /obj/structure/cable,
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
+"on" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/green,
+/obj/machinery/biogenerator,
+/turf/open/floor/plasteel/dark,
+/area/shuttle/shipstation)
 "op" = (
 /obj/effect/turf_decal/trimline/white/filled/corner{
 	dir = 1
@@ -1898,23 +1934,19 @@
 /area/shuttle/shipstation)
 "pT" = (
 /obj/structure/window/reinforced{
-	dir = 8;
-	layer = 2.9
-	},
-/obj/structure/window/reinforced,
-/obj/effect/turf_decal/tile/green{
-	dir = 1
-	},
-/obj/effect/turf_decal/tile/green{
 	dir = 8
 	},
-/obj/effect/turf_decal/tile/green,
-/obj/effect/turf_decal/tile/green{
+/obj/machinery/rnd/destructive_analyzer,
+/obj/effect/turf_decal/tile/purple{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/purple{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/purple{
 	dir = 4
 	},
-/obj/machinery/processor{
-	dir = 4
-	},
+/obj/effect/turf_decal/tile/purple,
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "qj" = (
@@ -1957,6 +1989,23 @@
 	name = "Cloning Lab";
 	req_access_txt = "68"
 	},
+/turf/open/floor/plasteel/dark,
+/area/shuttle/shipstation)
+"qB" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/green,
+/obj/machinery/seed_extractor,
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "qP" = (
@@ -2055,6 +2104,10 @@
 "sb" = (
 /obj/effect/turf_decal/trimline/purple/filled/line,
 /obj/structure/disposalpipe/segment,
+/obj/machinery/rnd/production/circuit_imprinter/department,
+/obj/structure/window/reinforced{
+	dir = 4
+	},
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "sd" = (
@@ -2209,20 +2262,10 @@
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "tD" = (
-/obj/structure/window/reinforced{
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
+/obj/effect/turf_decal/trimline/white/filled/line{
 	dir = 4
 	},
-/obj/effect/turf_decal/tile/green{
-	dir = 8
-	},
-/obj/effect/turf_decal/tile/green{
-	dir = 1
-	},
-/obj/effect/turf_decal/tile/green{
-	dir = 4
-	},
-/obj/effect/turf_decal/tile/green,
-/obj/machinery/seed_extractor,
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "tM" = (
@@ -2720,8 +2763,6 @@
 /obj/effect/turf_decal/trimline/purple/filled/line{
 	dir = 10
 	},
-/obj/structure/table,
-/obj/machinery/cell_charger,
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "zS" = (
@@ -3565,6 +3606,15 @@
 /obj/effect/landmark/start/prisoner,
 /turf/open/floor/mineral/plastitanium/red/brig,
 /area/shuttle/shipstation)
+"IR" = (
+/obj/effect/turf_decal/trimline/green/filled/line{
+	dir = 8
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 5
+	},
+/turf/open/floor/plasteel/dark,
+/area/shuttle/shipstation)
 "IV" = (
 /obj/machinery/hydroponics/constructable,
 /obj/effect/turf_decal/trimline/green/filled/line{
@@ -3696,7 +3746,6 @@
 /obj/effect/turf_decal/trimline/purple/filled/line{
 	dir = 8
 	},
-/obj/machinery/rnd/production/circuit_imprinter/department,
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "Ko" = (
@@ -4137,32 +4186,6 @@
 /obj/item/beacon,
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
-"OW" = (
-/obj/structure/window/reinforced{
-	dir = 4
-	},
-/obj/effect/turf_decal/tile/green{
-	dir = 8
-	},
-/obj/effect/turf_decal/tile/green{
-	dir = 1
-	},
-/obj/effect/turf_decal/tile/green{
-	dir = 4
-	},
-/obj/effect/turf_decal/tile/green,
-/obj/machinery/biogenerator,
-/turf/open/floor/plasteel/dark,
-/area/shuttle/shipstation)
-"Pq" = (
-/obj/effect/turf_decal/trimline/green/filled/line{
-	dir = 8
-	},
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/turf/open/floor/plasteel/dark,
-/area/shuttle/shipstation)
 "PB" = (
 /obj/effect/turf_decal/trimline/brown/filled/line{
 	dir = 1
@@ -4439,6 +4462,27 @@
 	dir = 8
 	},
 /obj/structure/disposalpipe/segment,
+/turf/open/floor/plasteel/dark,
+/area/shuttle/shipstation)
+"Tk" = (
+/obj/structure/window/reinforced{
+	dir = 8;
+	layer = 2.9
+	},
+/obj/structure/window/reinforced,
+/obj/effect/turf_decal/tile/green{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/green{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/green,
+/obj/effect/turf_decal/tile/green{
+	dir = 4
+	},
+/obj/machinery/processor{
+	dir = 4
+	},
 /turf/open/floor/plasteel/dark,
 /area/shuttle/shipstation)
 "Tz" = (
@@ -5472,7 +5516,7 @@ yI
 HI
 LB
 ZH
-pT
+Tk
 if
 hI
 yV
@@ -5497,7 +5541,7 @@ Jj
 Mf
 ef
 dT
-Pq
+IR
 ig
 ed
 "}
@@ -5528,8 +5572,8 @@ ed
 ZH
 ZH
 zS
-ZH
-ZH
+hh
+pT
 ZH
 rb
 vW
@@ -5679,8 +5723,8 @@ LF
 fP
 wd
 ZH
-tD
-OW
+qB
+on
 ZH
 wd
 ei
@@ -5713,7 +5757,7 @@ ei
 ei
 ZH
 Mz
-hh
+tD
 GL
 VK
 kl
